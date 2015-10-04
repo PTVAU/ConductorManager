@@ -1,0 +1,38 @@
+<settings>
+  <newsmainpath>\\192.168.20.121\Playlist</newsmainpath>
+  <deletewebpath>http://192.168.10.23/autoschedule/Deletion.aspx</deletewebpath>
+  <datemodified>
+  </datemodified>
+  <selecteditems>Acquisition;news\Full;news\News in Brief;news\round world;news\Sport;</selecteditems>
+  <nolocalitems>
+  </nolocalitems>
+  <processlistcount>1</processlistcount>
+  <dateoffset>5</dateoffset>
+  <autostart>1</autostart>
+  <source_dest>
+    <item>
+      <src>\\192.168.20.121\Playlist</src>
+      <dest>d:\local\Playlist</dest>
+    </item>
+    <item>
+      <src>o:\news</src>
+      <dest>d:\local</dest>
+    </item>
+    <item>
+      <src>o:\Others</src>
+      <dest>d:\local</dest>
+    </item>
+    <item>
+      <src>o:\</src>
+      <dest>d:\local</dest>
+    </item>
+    <item>
+      <src>\\192.168.20.155\Final</src>
+      <dest>d:\local</dest>
+    </item>
+    <item>
+      <src>\\192.168.20.48</src>
+      <dest>d:\local</dest>
+    </item>
+  </source_dest>
+</settings>
